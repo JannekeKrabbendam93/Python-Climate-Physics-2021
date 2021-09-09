@@ -2,18 +2,18 @@
 This repository contains all information and materials for the introduction to Python for Climate Physics students 2021 of IMAU at Utrecht University. 
 
 # Workshops
-There will be four workshops. I hope that we can meet face to face, but I am still waiting for confirmation if and where this is possible. 
+There will be four workshops, which will be face to face!
 For now, I am planning to meet you each Friday 13:00-15:00, starting on September 17th until October 8th. 
 During the workshops, I will first introduce the topic and the exercises, then we will work on the exercises and questions that may arise. Feel free to attend only
 one or a few of the workshops if you are already familiar with Python.
 
-1 - [Friday 17 Sept; 13:00-15:00 (BBG?)] basic programming in Python: data types, lists, dictionaries, loops, conditionals, functions, basic unix commands
+1 - [Friday 17 Sept; 13:00-15:00 (Min 2.01)] basic programming in Python: data types, lists, dictionaries, loops, conditionals, functions, basic unix commands
 
-2 - [Friday 24 Sept; 13:00-15:00 (BBG?)] common Python packages and basic plotting: numpy, matplotlib, scipy
+2 - [Friday 24 Sept; 13:00-15:00 (BBG 079)] common Python packages and basic plotting: numpy, matplotlib, scipy
 
-3 - [Friday 1 Oct; 13:00-15:00 (BBG?)] working with data and netcdf 
+3 - [Friday 1 Oct; 13:00-15:00 (BBG 065)] working with data and netcdf 
 
-4 - [Friday 8 Oct; 13:00-15:00 (BBG?)] mapping with cartopy
+4 - [Friday 8 Oct; 13:00-15:00 (BBG 065)] mapping with cartopy
 
 # Materials
 There are several editors in which you can write Python code, but during this introduction I will provide you with Jupyter Notebooks. 
