@@ -11,7 +11,7 @@ one or a few of the workshops if you are already familiar with Python.
 
 2 - [Friday 24 Sept; 13:00-15:00 (BBG 079)] common Python packages and basic plotting: numpy, matplotlib, scipy
 
-3 - [Friday 1 Oct; 13:00-15:00 (BBG 065)] working with data and netcdf 
+3 - [Friday 1 Oct; 13:00-15:00 (BBG 065)] working with data: pandas, netcdf4/xarray
 
 4 - [Friday 8 Oct; 13:00-15:00 (BBG 065)] mapping with cartopy
 
